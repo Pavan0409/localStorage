@@ -1,0 +1,18 @@
+.first{
+border:5px solid orangered;
+border-radius: 12%;
+border-left: 24%;
+margin-right: 30%;
+margin-left: 30%;
+margin-top: 12%;
+padding: center;
+background-color: aquamarine;
+}
+
+.form{
+text-align: center;
+}
+
+body{
+    background-color: rgb(43, 159, 226);
+}
